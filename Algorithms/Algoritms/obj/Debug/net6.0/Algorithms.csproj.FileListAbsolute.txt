@@ -1,0 +1,15 @@
+F:\Git Yar\Algoritms\Algoritms\bin\Debug\net6.0\Algorithms.exe
+F:\Git Yar\Algoritms\Algoritms\bin\Debug\net6.0\Algorithms.deps.json
+F:\Git Yar\Algoritms\Algoritms\bin\Debug\net6.0\Algorithms.runtimeconfig.json
+F:\Git Yar\Algoritms\Algoritms\bin\Debug\net6.0\Algorithms.dll
+F:\Git Yar\Algoritms\Algoritms\bin\Debug\net6.0\Algorithms.pdb
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.csproj.AssemblyReference.cache
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.AssemblyInfoInputs.cache
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.AssemblyInfo.cs
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.csproj.CoreCompileInputs.cache
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.dll
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\refint\Algorithms.dll
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.pdb
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\Algorithms.genruntimeconfig.cache
+F:\Git Yar\Algoritms\Algoritms\obj\Debug\net6.0\ref\Algorithms.dll

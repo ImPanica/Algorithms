@@ -1,4 +1,6 @@
-﻿namespace Algorithms
+﻿using Algorithms.Sort;
+
+namespace Algorithms
 {
     internal class Program
     {
@@ -17,6 +19,24 @@
             Console.WriteLine($"Position found word: {Binary.Binary.BinarySearchToString(sortedList, "fig")}");
             Console.WriteLine($"Position found word: {Binary.Binary.BinarySearchToString(sortedList, "grape")}");
             Console.WriteLine($"Position found word: {Binary.Binary.BinarySearchToString(sortedList, "banana")}");
+
+            // Сортировка выбором
+            int[] arrayInt = new[] { -5, 12, 0, 19, 150, 99999, 3, -323 };
+            int[] arrayInt2 = new[] { 35, 102, -50, -19, 10, 33, 75, 0 };
+            int[] sortArray = Selection.SelectionSort(arrayInt, true);
+            int[] sortArray2 = Selection.SelectionSort(arrayInt2);
+            foreach (var i in sortArray)
+            {
+                Console.Write($"{i}\t");
+            }
+
+            Console.WriteLine();
+            foreach (var i in sortArray2)
+            {
+                Console.Write($"{i}\t");
+            }
+
+            //
         }
     }
 }

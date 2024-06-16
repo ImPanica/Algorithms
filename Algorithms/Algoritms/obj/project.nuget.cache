@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/chyr0rqd/+x+Vn9RIWZW8OgNj+aKEx95B32xCqfoF8OxT6VwKc3DpyCAcEQylJNbbc0wbZwsv7uu7DCVEPOQ==",
+  "dgSpecHash": "N5EBM1HbgllFkwQ5FaZ9NGoqxWNdVT19KHuBsZpsxtYB2ATEj0x2QSVazH+t8rGEgvs4pBc+eNGncgEORe1A8Q==",
   "success": true,
-  "projectFilePath": "F:\\Git Yar\\Algoritms\\Algoritms\\Algorithms.csproj",
+  "projectFilePath": "F:\\Git Yar\\Algorithms\\Algoritms\\Algorithms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
